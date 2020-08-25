@@ -1,7 +1,7 @@
 body{
 	background-color: hsl(229, 57%, 11%);
 	position: relative;
-	background-image: url(images/bg-desktop.png);
+	background-image: url(bg-desktop.png);
 	background-repeat: no-repeat;
 	background-position: 0% 300px;
 	font-family: 'Raleway',sans-serif;
@@ -128,7 +128,7 @@ body{
 }
 @media(max-width: 960px){
 	body{
-		background: url(images/bg-mobile.png);
+		background: url(bg-mobile.png);
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
