@@ -3,6 +3,7 @@ body{
 	position: relative;
 	background-image: url(bg-desktop.png);
 	background-repeat: no-repeat;
+	background-size:cover;
 	background-position: 0% 300px;
 	font-family: 'Raleway',sans-serif;
 	font-size: 14px;
